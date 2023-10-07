@@ -1,16 +1,18 @@
 # main links
 main:
+  - title: "Paper_Review"
+    url: /paper_review/
   - title: "Category"
     url: /categories/
   - tilte: "Tag"
     url: /tags/
   - title: "Search"
     url: /search/
-
-
 docs:
   - title: "Index"
     children:
+      - title: "Paper_Review"
+        url: /paper_review/
       - title: "Category"
         url: /categories/
       - title: "Tag"
