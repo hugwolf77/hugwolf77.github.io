@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Essais"
+    url: /Essais/ 
   - title: "Paper_Review"
     url: /paper_review/
   - title: "Category"
@@ -11,6 +13,8 @@ main:
 docs:
   - title: "Index"
     children:
+      - title: "Essais"
+        url: /Essais/ 
       - title: "Paper_Review"
         url: /paper_review/
       - title: "Category"
